@@ -33,3 +33,5 @@ Map 2
 Map 3
 
 ![map3](/results/3.jpg)
+
+This project was done as a part of ESE 650: Learning in Robotics Course
