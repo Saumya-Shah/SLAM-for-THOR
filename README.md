@@ -18,10 +18,18 @@ Log file & images are all stored in "logs" repository
 
 # Results
 
+Map 0
+
 ![map0](/results/0.jpg)
+
+Map 1
 
 ![map1](/results/1.jpg)
 
+Map 2
+
 ![map2](/results/2.jpg)
+
+Map 3
 
 ![map3](/results/3.jpg)
